@@ -8,26 +8,14 @@ from dataclasses import dataclass
 import csv
 import os
 import logging.handlers
+from zf_login import login, DEFAULT_HEADERS
 
 # Constants
 BASE_URL = "https://www.zfrontier.com"
-MOBILE_LOGIN_URL = f"{BASE_URL}/api/login/mobile"
 FLOW_LIST_URL = f"{BASE_URL}/v2/flow/list"
 RATE_LIMIT_WAIT_TIME = 600  # 10 minutes in seconds
 REQUEST_TOO_OFTEN_RESP_MSG = "操作太频繁了"
 CSV_FILE_BASE_NAME = "flow_items.csv"
-DEFAULT_HEADERS = {
-    "Accept": "application/json, text/plain, */*",
-    "Content-Type": "application/x-www-form-urlencoded",
-    "Origin": "https://www.zfrontier.com",
-    "Referer": "https://www.zfrontier.com/app/circle/1",
-    "X-Client-Locale": "zh-CN",
-    "X-Csrf-Token": "1",
-    "Sec-Fetch-Site": "same-origin",
-    "Sec-Fetch-Mode": "cors",
-    "Sec-Fetch-Dest": "empty",
-    "Accept-Encoding": "gzip, deflate, br"
-}
 
 @dataclass
 class User:
@@ -65,13 +53,6 @@ def setup_logging(log_level):
     root_logger.setLevel(logging.DEBUG)
     root_logger.addHandler(console_handler)
     root_logger.addHandler(file_handler)
-
-def login(mobile, password):
-    data = {"mobile": mobile, "password": password}
-    response = requests.post(MOBILE_LOGIN_URL, headers=DEFAULT_HEADERS, data=data)
-    logging.debug(f"Response status code: {response.status_code}")
-    logging.debug(f"Response body: {response.text}")
-    return response.cookies
 
 def initialize_csv(csv_file):
     csv_headers = ["id", "hash_id", "view_url", "title", "user_nickname", "user_hash_id", "user_view_url"]
