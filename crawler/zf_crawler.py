@@ -12,6 +12,10 @@ import logging.handlers
 # Constants
 BASE_URL = "https://www.zfrontier.com"
 MOBILE_LOGIN_URL = f"{BASE_URL}/api/login/mobile"
+FLOW_LIST_URL = f"{BASE_URL}/v2/flow/list"
+RATE_LIMIT_WAIT_TIME = 600  # 10 minutes in seconds
+REQUEST_TOO_OFTEN_RESP_MSG = "操作太频繁了"
+CSV_FILE_BASE_NAME = "flow_items.csv"
 DEFAULT_HEADERS = {
     "Accept": "application/json, text/plain, */*",
     "Content-Type": "application/x-www-form-urlencoded",
@@ -111,8 +115,6 @@ def save_items_to_csv(items, csv_file, csv_headers):
             })
 
 def fetch_flow_data(cookies, current_offset="", min_offset=1000):
-    flow_list_url = f"{BASE_URL}/v2/flow/list"
-    
     while True:
         current_time, x_csrf_token = get_request_parameters()
         flow_payload = {
@@ -128,7 +130,7 @@ def fetch_flow_data(cookies, current_offset="", min_offset=1000):
         list_headers["X-Csrf-Token"] = x_csrf_token
         
         logging.info(f"Fetching data with offset: {current_offset}")
-        flow_response = requests.post(flow_list_url, headers=list_headers, data=flow_payload, cookies=cookies)
+        flow_response = requests.post(FLOW_LIST_URL, headers=list_headers, data=flow_payload, cookies=cookies)
         
         if not handle_response(flow_response):
             break
@@ -160,9 +162,9 @@ def is_valid_response(json_data):
         logging.error("Invalid response format")
         logging.debug(f"Full response: {json_data}")
         
-        if json_data.get("ok") == 20001 and json_data.get("msg") == "操作太频繁了":
-            logging.info("Rate limited. Waiting for 10 minutes before retrying...")
-            time.sleep(600)
+        if json_data.get("ok") == 20001 and json_data.get("msg") == REQUEST_TOO_OFTEN_RESP_MSG:
+            logging.info(f"Rate limited. Waiting for {RATE_LIMIT_WAIT_TIME} seconds before retrying...")
+            time.sleep(RATE_LIMIT_WAIT_TIME)
             return False
             
         return False
@@ -171,7 +173,7 @@ def is_valid_response(json_data):
 def rename_csv_with_date(csv_file):
     """Rename the CSV file to include the current date."""
     date_str = time.strftime("%Y%m%d")
-    new_filename = f"{date_str}_flow_items.csv"
+    new_filename = f"{date_str}_{CSV_FILE_BASE_NAME}"
     try:
         os.rename(csv_file, new_filename)
         logging.info(f"Renamed {csv_file} to {new_filename}")
@@ -183,14 +185,13 @@ def main():
     setup_logging(args.log_level)
     
     cookies = login(args.mobile, args.password)
-    csv_file = "flow_items.csv"
-    csv_headers = initialize_csv(csv_file)
+    csv_headers = initialize_csv(CSV_FILE_BASE_NAME)
     
     for data in fetch_flow_data(cookies):
-        save_items_to_csv(data["list"], csv_file, csv_headers)
+        save_items_to_csv(data["list"], CSV_FILE_BASE_NAME, csv_headers)
     
     logging.info("Finished fetching all data")
-    rename_csv_with_date(csv_file)
+    rename_csv_with_date(CSV_FILE_BASE_NAME)
 
 if __name__ == "__main__":
     main()
