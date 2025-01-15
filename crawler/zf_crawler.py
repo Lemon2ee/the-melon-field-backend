@@ -157,7 +157,7 @@ while True:
         
         # Check for rate limiting message
         if json_data.get("ok") == 20001 and json_data.get("msg") == "操作太频繁了":
-            logging.info("Rate limited. Waiting for 5 minutes before retrying...")
+            logging.info("Rate limited. Waiting for 10 minutes before retrying...") # seems like they have some kind of rate limiting and we need to wait for 10 minutes before retrying
             time.sleep(600)  # Wait for 5 minutes (300 seconds)
             continue  # Retry with the same offset
         
