@@ -1,0 +1,163 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 7302866,
+        "uid": 3824320,
+        "r_reply_uid": 4079614,
+        "post_id": 223726,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2024-11-28 00:33:54",
+        "text": "就该较真",
+        "content": "<p>就该较真</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=7302866&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2024.11.28",
+        "user": {
+          "id": 3824320,
+          "nickname": "努古米勒",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20220601/zf6296d1c0f38ed",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 7,
+          "level_name": "深海挑战者",
+          "hash_id": "zaGXoq6RvY9Orv",
+          "view_url": "/app/user/zaGXoq6RvY9Orv",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 7317547,
+        "uid": 2145456,
+        "r_reply_uid": 4079614,
+        "post_id": 223726,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2024-11-30 15:48:22",
+        "text": "有些厂商的抽象程度能让你震惊",
+        "content": "<p>有些厂商的抽象程度能让你震惊</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=7317547&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2024.11.30",
+        "user": {
+          "id": 2145456,
+          "nickname": "破玩Funperfect",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20230918/cp65078c7c121e3",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 4,
+          "level_name": "Triton 3300",
+          "hash_id": "KjLR9ll5jk5LoL",
+          "view_url": "/app/user/KjLR9ll5jk5LoL",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [
+            {
+              "id": 7319179,
+              "uid": 4079614,
+              "r_reply_uid": 2145456,
+              "post_id": 223726,
+              "reply_id": 7317547,
+              "floor": 0,
+              "great": 0,
+              "cnt_zan_rcv": 0,
+              "created_at": "2024-11-30 19:17:31",
+              "text": "关键是平台第二次还真通过了，被限流了直接",
+              "content": "<p>关键是平台第二次还真通过了，被限流了直接</p>",
+              "has_zan": 0,
+              "manage_menu": [
+                {
+                  "name": "分享评论",
+                  "api": "",
+                  "event": "shareReply",
+                  "confirm": ""
+                },
+                {
+                  "name": "举报此内容",
+                  "action": "report",
+                  "event": "report",
+                  "api": "/api/abuse-report?id=7319179&type=13",
+                  "confirm": "确认举报？"
+                }
+              ],
+              "past_time": "2024.11.30",
+              "user": {
+                "id": 4079614,
+                "nickname": "天湖九莲宝灯",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "https://img.zfrontier.com/avatar/240612/ava66692f1a5a687",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 1,
+                "level_name": "鲨鱼潜水艇",
+                "hash_id": "GOlrRoQGY1RXe1",
+                "view_url": "/app/user/GOlrRoQGY1RXe1",
+                "xmas_hat": 0
+              },
+              "reply_to_user": {
+                "id": 2145456,
+                "nickname": "破玩Funperfect",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "https://img.zfrontier.com/ava/20230918/cp65078c7c121e3",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 4,
+                "level_name": "Triton 3300",
+                "hash_id": "KjLR9ll5jk5LoL",
+                "view_url": "/app/user/KjLR9ll5jk5LoL",
+                "xmas_hat": 0
+              }
+            }
+          ],
+          "total": 1,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

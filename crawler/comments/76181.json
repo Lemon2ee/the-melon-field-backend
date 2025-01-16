@@ -1,0 +1,163 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 1110627,
+        "uid": 3631821,
+        "r_reply_uid": 3512184,
+        "post_id": 76726,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2022-03-02 09:00:22",
+        "text": "不懂这几十块钱有啥好倒的",
+        "content": "<p>不懂这几十块钱有啥好倒的</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=1110627&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2022.3.2",
+        "user": {
+          "id": 3631821,
+          "nickname": "没道理",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20220411/zf6252ff7774605",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 4,
+          "level_name": "Triton 3300",
+          "hash_id": "yJbVO17A118WX1",
+          "view_url": "/app/user/yJbVO17A118WX1",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [
+            {
+              "id": 1110737,
+              "uid": 3467012,
+              "r_reply_uid": 3631821,
+              "post_id": 76726,
+              "reply_id": 1110627,
+              "floor": 0,
+              "great": 0,
+              "cnt_zan_rcv": 0,
+              "created_at": "2022-03-02 10:02:45",
+              "text": "有些人就是喜欢拿家人换钱",
+              "content": "<p>有些人就是喜欢拿家人换钱</p>",
+              "has_zan": 0,
+              "manage_menu": [
+                {
+                  "name": "分享评论",
+                  "api": "",
+                  "event": "shareReply",
+                  "confirm": ""
+                },
+                {
+                  "name": "举报此内容",
+                  "action": "report",
+                  "event": "report",
+                  "api": "/api/abuse-report?id=1110737&type=13",
+                  "confirm": "确认举报？"
+                }
+              ],
+              "past_time": "2022.3.2",
+              "user": {
+                "id": 3467012,
+                "nickname": "罗兰Rolland",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "https://img.zfrontier.com/avatar/210118/ava600525ace5498",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 6,
+                "level_name": "K19",
+                "hash_id": "pJnLvLb6VwnbBd",
+                "view_url": "/app/user/pJnLvLb6VwnbBd",
+                "xmas_hat": 0
+              },
+              "reply_to_user": {
+                "id": 3631821,
+                "nickname": "没道理",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "https://img.zfrontier.com/ava/20220411/zf6252ff7774605",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 4,
+                "level_name": "Triton 3300",
+                "hash_id": "yJbVO17A118WX1",
+                "view_url": "/app/user/yJbVO17A118WX1",
+                "xmas_hat": 0
+              }
+            }
+          ],
+          "total": 1,
+          "has_more": false
+        }
+      },
+      {
+        "id": 1115177,
+        "uid": 3122782,
+        "r_reply_uid": 3512184,
+        "post_id": 76726,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2022-03-04 22:49:02",
+        "text": "我想知道砍单了吗？",
+        "content": "<p>我想知道砍单了吗？</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=1115177&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2022.3.4",
+        "user": {
+          "id": 3122782,
+          "nickname": "嘉然今天吃贝拉",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20220112/cp61deeba6702d8",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 1,
+          "level_name": "鲨鱼潜水艇",
+          "hash_id": "rqly5vRKBE18w",
+          "view_url": "/app/user/rqly5vRKBE18w",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

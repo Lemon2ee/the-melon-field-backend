@@ -1,0 +1,106 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 4467764,
+        "uid": 20974,
+        "r_reply_uid": 3706035,
+        "post_id": 173638,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2023-10-23 16:33:34",
+        "text": "指不定人家就爱这个调调",
+        "content": "<p>指不定人家就爱这个调调</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=4467764&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2023.10.23",
+        "user": {
+          "id": 20974,
+          "nickname": "冲锋的虾",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20230521/zf646998b6adb41",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 4,
+          "level_name": "Triton 3300",
+          "hash_id": "gz25e7wrNJ27",
+          "view_url": "/app/user/gz25e7wrNJ27",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 4469289,
+        "uid": 3880987,
+        "r_reply_uid": 3706035,
+        "post_id": 173638,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2023-10-23 19:22:19",
+        "text": "直接关闭订单就行",
+        "content": "<p>直接关闭订单就行</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=4469289&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2023.10.23",
+        "user": {
+          "id": 3880987,
+          "nickname": "博尔塞基",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "//avatar.zfrontier.cn/g/e1d7873022e9ae6c36bc8cd507afadef",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 3,
+          "level_name": "鹦鹉螺",
+          "hash_id": "d2OJX50yqlqKN",
+          "view_url": "/app/user/d2OJX50yqlqKN",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

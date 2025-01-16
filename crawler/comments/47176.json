@@ -1,0 +1,106 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 648681,
+        "uid": 3102190,
+        "r_reply_uid": 3507781,
+        "post_id": 47851,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2021-05-23 20:02:52",
+        "text": "烫总是真粉！",
+        "content": "<p>烫总是真粉！</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=648681&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.5.23",
+        "user": {
+          "id": 3102190,
+          "nickname": "晓࿊默",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/191224/ava5e01753fa405d",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 5,
+          "level_name": "U571",
+          "hash_id": "w7dBYx82pOVp5n",
+          "view_url": "/app/user/w7dBYx82pOVp5n",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 648687,
+        "uid": 3074075,
+        "r_reply_uid": 3507781,
+        "post_id": 47851,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2021-05-23 20:04:05",
+        "text": "现在还有机会吗",
+        "content": "<p>现在还有机会吗</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=648687&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.5.23",
+        "user": {
+          "id": 3074075,
+          "nickname": "张同学B8",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/191128/ava5ddea6a3046fa",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 6,
+          "level_name": "K19",
+          "hash_id": "NAr5apPE7VxNd",
+          "view_url": "/app/user/NAr5apPE7VxNd",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

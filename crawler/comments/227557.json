@@ -1,0 +1,106 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 7597785,
+        "uid": 3991643,
+        "r_reply_uid": 3804214,
+        "post_id": 227479,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2025-01-14 22:28:40",
+        "text": "有病？别整天把这些没营养的东西挂上来懂？",
+        "content": "<p>有病？别整天把这些没营养的东西挂上来懂？</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=7597785&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "18小时前",
+        "user": {
+          "id": 3991643,
+          "nickname": "福罗兹",
+          "bio": "心",
+          "avatar_path": "https://img.zfrontier.com/ava/20240508/zf663b989f4c412",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 5,
+          "level_name": "U571",
+          "hash_id": "mYl9znNmAOPw8",
+          "view_url": "/app/user/mYl9znNmAOPw8",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 7598695,
+        "uid": 4063722,
+        "r_reply_uid": 3804214,
+        "post_id": 227479,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 1,
+        "created_at": "2025-01-15 02:41:44",
+        "text": "交易过 龟速确认",
+        "content": "<p>交易过 龟速确认</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=7598695&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "13小时前",
+        "user": {
+          "id": 4063722,
+          "nickname": "Laurent",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/240424/ava662853bc0fc1e",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 1,
+          "level_name": "鲨鱼潜水艇",
+          "hash_id": "P0VeZYP9dRVkQ",
+          "view_url": "/app/user/P0VeZYP9dRVkQ",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

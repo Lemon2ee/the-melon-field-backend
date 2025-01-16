@@ -1,0 +1,58 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 1124258,
+        "uid": 3764103,
+        "r_reply_uid": 3633820,
+        "post_id": 77613,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2022-03-11 00:21:52",
+        "text": "哈哈哈哈",
+        "content": "<p>哈哈哈哈</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=1124258&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2022.3.11",
+        "user": {
+          "id": 3764103,
+          "nickname": "一葱大大",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/211231/ava61ce506551792",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 2,
+          "level_name": "黄色潜水艇",
+          "hash_id": "Ere5vwN7e90dde",
+          "view_url": "/app/user/Ere5vwN7e90dde",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

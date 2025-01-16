@@ -1,0 +1,58 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 499368,
+        "uid": 3444406,
+        "r_reply_uid": 3040415,
+        "post_id": 18452,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2021-01-07 13:12:44",
+        "text": "老哥留个qq",
+        "content": "<p>老哥留个qq</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=499368&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.1.7",
+        "user": {
+          "id": 3444406,
+          "nickname": "亮gh",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/201221/ava5fe08f869ce0c",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 0,
+          "level_name": "蛙人",
+          "hash_id": "qeeLV8qkVkme6",
+          "view_url": "/app/user/qeeLV8qkVkme6",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 305602,
+        "uid": 26141,
+        "r_reply_uid": 3077498,
+        "post_id": 21275,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2020-04-27 14:57:18",
+        "text": "给楼主顶一下",
+        "content": "<p>给楼主顶一下<img class=\"editor-image\" data-type=\"meme\" src=\"//img.zfrontier.com/emo/20200405/Fic42Bo7WtwDZ6pA2Z50SZFeRhyT\" /></p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=305602&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2020.4.27",
+        "user": {
+          "id": 26141,
+          "nickname": "公主殿下赛高",
+          "bio": "人终有一死",
+          "avatar_path": "http://img.zfrontier.com/ava/20171227/cp5a435e612650c",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 3,
+          "level_name": "鹦鹉螺",
+          "hash_id": "3j8aJAxLrBxP",
+          "view_url": "/app/user/3j8aJAxLrBxP",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 305604,
+        "uid": 3046668,
+        "r_reply_uid": 3077498,
+        "post_id": 21275,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 3,
+        "created_at": "2020-04-27 14:58:08",
+        "text": "为什么你愿意花3000买一个键盘，因为你觉得值，为什么你觉得值，因为你被营销成功了，就这么简单，这句话表示赞同，其实就是消费主义的陷阱，包括所谓的炒鞋~",
+        "content": "<p>为什么你愿意花3000买一个键盘，因为你觉得值，为什么你觉得值，因为你被营销成功了，就这么简单，这句话表示赞同，其实就是消费主义的陷阱，包括所谓的炒鞋~</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=305604&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2020.4.27",
+        "user": {
+          "id": 3046668,
+          "nickname": "PalSdc",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/191102/ava5dbd0f5925495",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 0,
+          "level_name": "蛙人",
+          "hash_id": "x2zGWJWN0ynVA",
+          "view_url": "/app/user/x2zGWJWN0ynVA",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [
+            {
+              "id": 305615,
+              "uid": 26142,
+              "r_reply_uid": 3046668,
+              "post_id": 21275,
+              "reply_id": 305604,
+              "floor": 0,
+              "great": 0,
+              "cnt_zan_rcv": 0,
+              "created_at": "2020-04-27 15:07:18",
+              "text": "yep",
+              "content": "<p>yep</p>",
+              "has_zan": 0,
+              "manage_menu": [
+                {
+                  "name": "分享评论",
+                  "api": "",
+                  "event": "shareReply",
+                  "confirm": ""
+                },
+                {
+                  "name": "举报此内容",
+                  "action": "report",
+                  "event": "report",
+                  "api": "/api/abuse-report?id=305615&type=13",
+                  "confirm": "确认举报？"
+                }
+              ],
+              "past_time": "2020.4.27",
+              "user": {
+                "id": 26142,
+                "nickname": "狂热者",
+                "bio": "耳机烧烧烧！",
+                "avatar_path": "http://img.zfrontier.com/ava/20180424/cp5adf52eda1adc",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 3,
+                "level_name": "鹦鹉螺",
+                "hash_id": "MxNApaNLQLPO",
+                "view_url": "/app/user/MxNApaNLQLPO",
+                "xmas_hat": 0
+              },
+              "reply_to_user": {
+                "id": 3046668,
+                "nickname": "PalSdc",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "https://img.zfrontier.com/avatar/191102/ava5dbd0f5925495",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 0,
+                "level_name": "蛙人",
+                "hash_id": "x2zGWJWN0ynVA",
+                "view_url": "/app/user/x2zGWJWN0ynVA",
+                "xmas_hat": 0
+              }
+            }
+          ],
+          "total": 1,
+          "has_more": false
+        }
+      },
+      {
+        "id": 305614,
+        "uid": 26142,
+        "r_reply_uid": 3077498,
+        "post_id": 21275,
+        "reply_id": 0,
+        "floor": 3,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2020-04-27 15:06:39",
+        "text": "老哥说的句句在理啊",
+        "content": "<p>老哥说的句句在理啊</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=305614&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2020.4.27",
+        "user": {
+          "id": 26142,
+          "nickname": "狂热者",
+          "bio": "耳机烧烧烧！",
+          "avatar_path": "http://img.zfrontier.com/ava/20180424/cp5adf52eda1adc",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 3,
+          "level_name": "鹦鹉螺",
+          "hash_id": "MxNApaNLQLPO",
+          "view_url": "/app/user/MxNApaNLQLPO",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 305621,
+        "uid": 2234600,
+        "r_reply_uid": 3077498,
+        "post_id": 21275,
+        "reply_id": 0,
+        "floor": 4,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2020-04-27 15:17:14",
+        "text": "喜欢的套件/键帽/轴遇到开团就上，有好心人好价出那我就收，另外买不到就算了还是看大佬毒图好，省钱又快乐",
+        "content": "喜欢的套件/键帽/轴遇到开团就上，有好心人好价出那我就收，另外买不到就算了<div>还是看大佬毒图好，省钱又快乐<img src=\"//img.zfrontier.com/emo/20200427/FhNvUFd7EGIz_XV9gft4StMeecf9?imageView2/1/w/104\" class=\"emotion\" /></div>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=305621&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2020.4.27",
+        "user": {
+          "id": 2234600,
+          "nickname": "不太熟",
+          "bio": "无钱的键盘玩家",
+          "avatar_path": "https://img.zfrontier.com/ava/20190513/zf5cd8b2e43d80c",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 6,
+          "level_name": "K19",
+          "hash_id": "q0jdjjEr0KYjyb",
+          "view_url": "/app/user/q0jdjjEr0KYjyb",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 305755,
+        "uid": 18817,
+        "r_reply_uid": 3077498,
+        "post_id": 21275,
+        "reply_id": 0,
+        "floor": 5,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2020-04-27 17:33:07",
+        "text": "营销的效应也有，但是未必有想象的那么重，客制化键盘的量还是太小，对应到比如楼主所说的悦米299还有的赚，那是量大，量大起来，成本均摊就下来了，量产键盘为什么老是一尘不变就是因为成本限制，用一些共模，省钱压成本。客制化键盘材料成本不算大头，关键是人员投入的时间和精力这些隐性成本，这些东西你要高也可以高，几个出名的工作室内的设计师的工资还有办公场地啥的都是成本，高也可以高上去，要低也可以低，一些只是业余的爱好者自己设计键盘开车，基本上就是拿自己的热情爱好去做，也不求太多回报，稍微赚一点钱当辛苦费，那样价格就会低下来。至于营销，真的就是仁者见仁智者见智，不过这些年来营销的成分毫无疑问的增大了， 各种工作室的开启涌入，各种价格的起飞都是见证。哪里有钱赚哪里就有人来，有的套件原价买可以接受，加价买纯粹就是爱的奉献",
+        "content": "<p>营销的效应也有，但是未必有想象的那么重，客制化键盘的量还是太小，对应到比如楼主所说的悦米299还有的赚，那是量大，量大起来，成本均摊就下来了，量产键盘为什么老是一尘不变就是因为成本限制，用一些共模，省钱压成本。</p><p>客制化键盘材料成本不算大头，关键是人员投入的时间和精力这些隐性成本，这些东西你要高也可以高，几个出名的工作室内的设计师的工资还有办公场地啥的都是成本，高也可以高上去，要低也可以低，一些只是业余的爱好者自己设计键盘开车，基本上就是拿自己的热情爱好去做，也不求太多回报，稍微赚一点钱当辛苦费，那样价格就会低下来。</p><p>至于营销，真的就是仁者见仁智者见智，不过这些年来营销的成分毫无疑问的增大了， 各种工作室的开启涌入，各种价格的起飞都是见证。</p><p>哪里有钱赚哪里就有人来，有的套件原价买可以接受，加价买纯粹就是爱的奉献</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=305755&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2020.4.27",
+        "user": {
+          "id": 18817,
+          "nickname": "飛飏",
+          "bio": "Get Schwifty",
+          "avatar_path": "http://img.zfrontier.com/avatar/170712/ava5965d9146ccf0",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 4,
+          "level_name": "Triton 3300",
+          "hash_id": "3ELArPJP9GGp",
+          "view_url": "/app/user/3ELArPJP9GGp",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 305829,
+        "uid": 3077498,
+        "r_reply_uid": 3077498,
+        "post_id": 21275,
+        "reply_id": 0,
+        "floor": 6,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2020-04-27 19:08:51",
+        "text": "多说两句，其实设计，人工，学习什么的成本我在里面没有提，因为我觉得那些客制化作者在最开始的时候是爱这个圈子的，所以他们为此付出的成本无法计量。但其实，我们摊开了说，键盘设计最难的是什么，是PCB啊，不是壳子，你pcb设计出来卖了一次又一次，不能一直有人工成本在里面吧，全新iphone每年还降价呢，咋就一个pcb成本那么高呢？壳子你设计一次，加个一两千没啥说的，反正有人觉得值，这就够了，我穷是我的错，不是定价的错。量小则贵，安慰一下自己可以，不要一直宣传，毕竟真的好你多弄点做成现货啊，更杜绝了倒爷，咸鱼成天收这收那的，价格高的吓人，不限量价格就起不来，何必呢，大家都明白的。只是吐吐槽，希望键盘不要成泡沫，让真正爱的人望而却步",
+        "content": "多说两句，其实设计，人工，学习什么的成本我在里面没有提，因为我觉得那些客制化作者在最开始的时候是爱这个圈子的，所以他们为此付出的成本无法计量。但其实，我们摊开了说，键盘设计最难的是什么，是PCB啊，不是壳子，你pcb设计出来卖了一次又一次，不能一直有人工成本在里面吧，全新iphone每年还降价呢，咋就一个pcb成本那么高呢？壳子你设计一次，加个一两千没啥说的，反正有人觉得值，这就够了，我穷是我的错，不是定价的错。<div>量小则贵，安慰一下自己可以，不要一直宣传，毕竟真的好你多弄点做成现货啊，更杜绝了倒爷，咸鱼成天收这收那的，价格高的吓人，不限量价格就起不来，何必呢，大家都明白的。</div><div>只是吐吐槽，希望键盘不要成泡沫，让真正爱的人望而却步</div>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=305829&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2020.4.27",
+        "user": {
+          "id": 3077498,
+          "nickname": "逝Ge",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/191201/ava5de3cc058e51b",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 1,
+          "level_name": "鲨鱼潜水艇",
+          "hash_id": "1ajKJ9DQ0oD0w",
+          "view_url": "/app/user/1ajKJ9DQ0oD0w",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 305998,
+        "uid": 3223380,
+        "r_reply_uid": 3077498,
+        "post_id": 21275,
+        "reply_id": 0,
+        "floor": 7,
+        "great": 0,
+        "cnt_zan_rcv": 1,
+        "created_at": "2020-04-27 22:28:21",
+        "text": "私以为volt是不值3099的",
+        "content": "<p>私以为volt是不值3099的</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=305998&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2020.4.27",
+        "user": {
+          "id": 3223380,
+          "nickname": "PurpleBBQ",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/200414/ava5e95cb47f03df",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 0,
+          "level_name": "蛙人",
+          "hash_id": "aZdLzvEOP99PG",
+          "view_url": "/app/user/aZdLzvEOP99PG",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 307205,
+        "uid": 3232927,
+        "r_reply_uid": 3077498,
+        "post_id": 21275,
+        "reply_id": 0,
+        "floor": 8,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2020-04-29 23:41:55",
+        "text": "瞎说什么大实话，刚入坑没多久，也刚买了几个套件想轴体啥的基本上都没上到车，收闲鱼价格也很快乐套件外壳的话。。。。emmmmm   因为数量到定制所以价格高可用理解  但是有的价格真的是传家宝理财产品啊一度以为炒鞋子的那批人来搞键盘了",
+        "content": "<p>瞎说什么大实话，刚入坑没多久，也刚买了几个套件</p><p>想轴体啥的基本上都没上到车，收闲鱼价格也很快乐</p><p>套件外壳的话。。。。emmmmm   因为数量到定制所以价格高可用理解  但是有的价格真的是传家宝理财产品啊</p><p>一度以为炒鞋子的那批人来搞键盘了</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=307205&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2020.4.29",
+        "user": {
+          "id": 3232927,
+          "nickname": "鸦牙",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/200427/ava5ea6faecbde50",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 5,
+          "level_name": "U571",
+          "hash_id": "m7Lqa75mvoVNA7",
+          "view_url": "/app/user/m7Lqa75mvoVNA7",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 309076,
+        "uid": 2820418,
+        "r_reply_uid": 3077498,
+        "post_id": 21275,
+        "reply_id": 0,
+        "floor": 9,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2020-05-03 23:37:24",
+        "text": "我就问谁现在盲盒4888算上轴成本价出了  再说别人是倒爷为啥没有巨婴studio？哦原来不是特意为这群巨婴开的啊哈哈 九折水瓶",
+        "content": "<p><br /></p><p>我就问谁现在盲盒4888算上轴成本价出了  再说别人是倒爷<img class=\"editor-image\" data-type=\"meme\" src=\"//img.zfrontier.com/emo/20190915/FphtLtTFc-jyDc-XlfC9Qhub-L84\" /></p><p>为啥没有巨婴studio？哦原来不是特意为这群巨婴开的啊</p><p>哈哈 九折水瓶</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=309076&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2020.5.3",
+        "user": {
+          "id": 2820418,
+          "nickname": "伤心奶头综合征",
+          "bio": "killall",
+          "avatar_path": "https://img.zfrontier.com/ava/20200812/cp5f33634c964f7",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 5,
+          "level_name": "U571",
+          "hash_id": "xdYzlN7wpmXzvr",
+          "view_url": "/app/user/xdYzlN7wpmXzvr",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 324647,
+        "uid": 2472635,
+        "r_reply_uid": 3077498,
+        "post_id": 21275,
+        "reply_id": 0,
+        "floor": 10,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2020-05-29 16:52:37",
+        "text": "确实，客制化圈子感觉倒爷比正常玩家还多",
+        "content": "<p>确实，客制化圈子感觉倒爷比正常玩家还多</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=324647&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2020.5.29",
+        "user": {
+          "id": 2472635,
+          "nickname": "源稚风间琉璃",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/190523/ava5ce66de90b0f3",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 0,
+          "level_name": "蛙人",
+          "hash_id": "Rrm9KqeEqJe2Ww",
+          "view_url": "/app/user/Rrm9KqeEqJe2Ww",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

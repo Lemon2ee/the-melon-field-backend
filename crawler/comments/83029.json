@@ -1,0 +1,58 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 1275232,
+        "uid": 3793170,
+        "r_reply_uid": 3234423,
+        "post_id": 83535,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 4,
+        "created_at": "2022-05-02 16:19:24",
+        "text": "警察不是都过去了 你跟警察说",
+        "content": "<p>警察不是都过去了 你跟警察说</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=1275232&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2022.5.2",
+        "user": {
+          "id": 3793170,
+          "nickname": "destiny2",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20221219/zf63a054ad207c4",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 4,
+          "level_name": "Triton 3300",
+          "hash_id": "q0KjEO8odaGYky",
+          "view_url": "/app/user/q0KjEO8odaGYky",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 6179676,
+        "uid": 3862529,
+        "r_reply_uid": 3971193,
+        "post_id": 209470,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 1,
+        "created_at": "2024-06-17 17:01:34",
+        "text": "素材库限免了",
+        "content": "<p>素材库限免了</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=6179676&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2024.6.17",
+        "user": {
+          "id": 3862529,
+          "nickname": "Song松",
+          "bio": "阳极判官",
+          "avatar_path": "https://img.zfrontier.com/avatar/220821/ava630189f959ba6",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 7,
+          "level_name": "深海挑战者",
+          "hash_id": "qzwDnD2621xjm",
+          "view_url": "/app/user/qzwDnD2621xjm",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 6181944,
+        "uid": 3433927,
+        "r_reply_uid": 3971193,
+        "post_id": 209470,
+        "reply_id": 0,
+        "floor": 3,
+        "great": 0,
+        "cnt_zan_rcv": 2,
+        "created_at": "2024-06-18 07:53:26",
+        "text": "这个图刚出的时候我以为又是哪个小工作室抄matrix呢",
+        "content": "<p>这个图刚出的时候我以为又是哪个小工作室抄matrix呢</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=6181944&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2024.6.18",
+        "user": {
+          "id": 3433927,
+          "nickname": "斯宾诺莎的磨盘",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20210109/zf5ff9900223577",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 3,
+          "level_name": "鹦鹉螺",
+          "hash_id": "pJAo7J95Kxojjl",
+          "view_url": "/app/user/pJAo7J95Kxojjl",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

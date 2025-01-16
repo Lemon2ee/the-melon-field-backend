@@ -1,0 +1,106 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 2110997,
+        "uid": 3837145,
+        "r_reply_uid": 3877791,
+        "post_id": 109904,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2022-11-06 13:16:36",
+        "text": "好骂",
+        "content": "<p>好骂</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=2110997&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2022.11.6",
+        "user": {
+          "id": 3837145,
+          "nickname": "闻且歌",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/220614/ava62a7d7e7f2071",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 1,
+          "level_name": "鲨鱼潜水艇",
+          "hash_id": "aNl0x0OVKNQaOD",
+          "view_url": "/app/user/aNl0x0OVKNQaOD",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 2262753,
+        "uid": 3895427,
+        "r_reply_uid": 3877791,
+        "post_id": 109904,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2022-12-05 12:43:46",
+        "text": "他们家东西实在是不敢买",
+        "content": "<p>他们家东西实在是不敢买</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=2262753&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2022.12.5",
+        "user": {
+          "id": 3895427,
+          "nickname": "梅川苦茶",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20221126/zf6381cdea017a8",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 5,
+          "level_name": "U571",
+          "hash_id": "L7q2Ym9dzrlxn",
+          "view_url": "/app/user/L7q2Ym9dzrlxn",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

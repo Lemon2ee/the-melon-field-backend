@@ -1,0 +1,115 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 880092,
+        "uid": 3234871,
+        "r_reply_uid": 2530278,
+        "post_id": 26419,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2021-10-27 13:30:26",
+        "text": "大概率这根本不是Cerakote的涂层",
+        "content": "<p>大概率这根本不是Cerakote的涂层</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=880092&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.10.27",
+        "user": {
+          "id": 3234871,
+          "nickname": "已注销",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "//img.zfrontier.com/avatar/default.png",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 0,
+          "level_name": "蛙人",
+          "hash_id": "WP9LOJxow908Ba",
+          "view_url": "/app/user/WP9LOJxow908Ba",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [
+            {
+              "id": 1031414,
+              "uid": 2530278,
+              "r_reply_uid": 3234871,
+              "post_id": 26419,
+              "reply_id": 880092,
+              "floor": 0,
+              "great": 0,
+              "cnt_zan_rcv": 0,
+              "created_at": "2022-01-13 17:41:59",
+              "text": "被骗了 哎",
+              "content": "<p>被骗了 哎</p>",
+              "has_zan": 0,
+              "manage_menu": [
+                {
+                  "name": "分享评论",
+                  "api": "",
+                  "event": "shareReply",
+                  "confirm": ""
+                },
+                {
+                  "name": "举报此内容",
+                  "action": "report",
+                  "event": "report",
+                  "api": "/api/abuse-report?id=1031414&type=13",
+                  "confirm": "确认举报？"
+                }
+              ],
+              "past_time": "2022.1.13",
+              "user": {
+                "id": 2530278,
+                "nickname": "ABCD04",
+                "bio": "其实我是闰土",
+                "avatar_path": "https://img.zfrontier.com/avatar/190611/ava5cfe8dc37f7e0",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 4,
+                "level_name": "Triton 3300",
+                "hash_id": "D8KxOYB2ojnkN",
+                "view_url": "/app/user/D8KxOYB2ojnkN",
+                "xmas_hat": 0
+              },
+              "reply_to_user": {
+                "id": 3234871,
+                "nickname": "已注销",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "//img.zfrontier.com/avatar/default.png",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 0,
+                "level_name": "蛙人",
+                "hash_id": "WP9LOJxow908Ba",
+                "view_url": "/app/user/WP9LOJxow908Ba",
+                "xmas_hat": 0
+              }
+            }
+          ],
+          "total": 1,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

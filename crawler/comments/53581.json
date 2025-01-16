@@ -1,0 +1,58 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 730565,
+        "uid": 3325511,
+        "r_reply_uid": 3642542,
+        "post_id": 54197,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2021-07-24 13:43:21",
+        "text": "r2玩家集体亏3500！",
+        "content": "<p>r2玩家集体亏3500！</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=730565&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.7.24",
+        "user": {
+          "id": 3325511,
+          "nickname": "LoveAndPeace_",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20220709/zf62c8f1bb13f4d",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 3,
+          "level_name": "鹦鹉螺",
+          "hash_id": "XZ6k2aDGe7JWRY",
+          "view_url": "/app/user/XZ6k2aDGe7JWRY",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

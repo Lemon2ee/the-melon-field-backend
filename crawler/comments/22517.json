@@ -1,0 +1,58 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 440808,
+        "uid": 3370565,
+        "r_reply_uid": 3242093,
+        "post_id": 23613,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2020-11-09 11:09:58",
+        "text": "已经出了？",
+        "content": "已经出了？",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=440808&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2020.11.9",
+        "user": {
+          "id": 3370565,
+          "nickname": "Alex1c",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/201016/ava5f899166d72f7",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 0,
+          "level_name": "蛙人",
+          "hash_id": "GjzyXVr7lNdGL",
+          "view_url": "/app/user/GjzyXVr7lNdGL",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

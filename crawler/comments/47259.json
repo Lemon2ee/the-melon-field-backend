@@ -1,0 +1,115 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 649554,
+        "uid": 3029238,
+        "r_reply_uid": 3515338,
+        "post_id": 47934,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2021-05-24 12:05:46",
+        "text": "这直接连神父都不算了，直接是神了。",
+        "content": "<p>这直接连神父都不算了，直接是神了。</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=649554&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.5.24",
+        "user": {
+          "id": 3029238,
+          "nickname": "彻底死去",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/191016/ava5da71a1b512d0",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 1,
+          "level_name": "鲨鱼潜水艇",
+          "hash_id": "YdkX5rnW7v0ow",
+          "view_url": "/app/user/YdkX5rnW7v0ow",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [
+            {
+              "id": 649631,
+              "uid": 3515338,
+              "r_reply_uid": 3029238,
+              "post_id": 47934,
+              "reply_id": 649554,
+              "floor": 0,
+              "great": 0,
+              "cnt_zan_rcv": 0,
+              "created_at": "2021-05-24 12:57:27",
+              "text": "《敬重》",
+              "content": "<p>《敬重》</p>",
+              "has_zan": 0,
+              "manage_menu": [
+                {
+                  "name": "分享评论",
+                  "api": "",
+                  "event": "shareReply",
+                  "confirm": ""
+                },
+                {
+                  "name": "举报此内容",
+                  "action": "report",
+                  "event": "report",
+                  "api": "/api/abuse-report?id=649631&type=13",
+                  "confirm": "确认举报？"
+                }
+              ],
+              "past_time": "2021.5.24",
+              "user": {
+                "id": 3515338,
+                "nickname": "就是乱说早安",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "https://img.zfrontier.com/avatar/210311/ava6049ecd0d3445",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 2,
+                "level_name": "黄色潜水艇",
+                "hash_id": "BvrkoEKE6ammy",
+                "view_url": "/app/user/BvrkoEKE6ammy",
+                "xmas_hat": 0
+              },
+              "reply_to_user": {
+                "id": 3029238,
+                "nickname": "彻底死去",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "https://img.zfrontier.com/avatar/191016/ava5da71a1b512d0",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 1,
+                "level_name": "鲨鱼潜水艇",
+                "hash_id": "YdkX5rnW7v0ow",
+                "view_url": "/app/user/YdkX5rnW7v0ow",
+                "xmas_hat": 0
+              }
+            }
+          ],
+          "total": 1,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

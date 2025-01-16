@@ -1,0 +1,106 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 1131265,
+        "uid": 3586553,
+        "r_reply_uid": 3770084,
+        "post_id": 78126,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 1,
+        "created_at": "2022-03-14 17:25:06",
+        "text": "群都解散了，太搞了",
+        "content": "<p>群都解散了，太搞了</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=1131265&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2022.3.14",
+        "user": {
+          "id": 3586553,
+          "nickname": "kiraK5",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/210517/ava60a21805007ac",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 3,
+          "level_name": "鹦鹉螺",
+          "hash_id": "owN2ByEaJY2YE",
+          "view_url": "/app/user/owN2ByEaJY2YE",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 1131274,
+        "uid": 3748429,
+        "r_reply_uid": 3770084,
+        "post_id": 78126,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2022-03-14 17:28:47",
+        "text": "终于锤死了，这下是铁证如山",
+        "content": "<p>终于锤死了，这下是铁证如山</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=1131274&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2022.3.14",
+        "user": {
+          "id": 3748429,
+          "nickname": "梅采普罗",
+          "bio": "给佬给佬",
+          "avatar_path": "https://img.zfrontier.com/ava/20211225/zf61c6f0778cac5",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 3,
+          "level_name": "鹦鹉螺",
+          "hash_id": "q0wvXKezlA0GGy",
+          "view_url": "/app/user/q0wvXKezlA0GGy",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

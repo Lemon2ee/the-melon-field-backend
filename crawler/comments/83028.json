@@ -1,0 +1,58 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 1277052,
+        "uid": 3812978,
+        "r_reply_uid": 3234423,
+        "post_id": 83534,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2022-05-03 16:04:11",
+        "text": "没评论？",
+        "content": "<p>没评论？</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=1277052&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2022.5.3",
+        "user": {
+          "id": 3812978,
+          "nickname": "LeF0us",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20241205/zf67513e866832e",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 1,
+          "level_name": "鲨鱼潜水艇",
+          "hash_id": "JAEJqWxxnwqRq2",
+          "view_url": "/app/user/JAEJqWxxnwqRq2",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

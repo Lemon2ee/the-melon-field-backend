@@ -1,0 +1,106 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 7261868,
+        "uid": 4027941,
+        "r_reply_uid": 4125042,
+        "post_id": 223407,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 1,
+        "created_at": "2024-11-22 16:08:21",
+        "text": "蓝猫b用没有",
+        "content": "<p>蓝猫b用没有</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=7261868&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2024.11.22",
+        "user": {
+          "id": 4027941,
+          "nickname": "微信用户SC",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/231227/ava658be197dd8c6",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 0,
+          "level_name": "蛙人",
+          "hash_id": "a89K8kaRVbVQB",
+          "view_url": "/app/user/a89K8kaRVbVQB",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 7262242,
+        "uid": 3882707,
+        "r_reply_uid": 4125042,
+        "post_id": 223407,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2024-11-22 16:34:10",
+        "text": "再探再报",
+        "content": "<p>再探再报</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=7262242&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2024.11.22",
+        "user": {
+          "id": 3882707,
+          "nickname": "西北老汉",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/221018/ava634e65c6d28c9",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 1,
+          "level_name": "鲨鱼潜水艇",
+          "hash_id": "m7XdPJRXwYYRm8",
+          "view_url": "/app/user/m7XdPJRXwYYRm8",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

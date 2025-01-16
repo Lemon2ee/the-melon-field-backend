@@ -1,0 +1,163 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 527559,
+        "uid": 3311934,
+        "r_reply_uid": 3327231,
+        "post_id": 34190,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 2,
+        "created_at": "2021-02-07 10:40:48",
+        "text": "好家伙，我都把瓜田帖子删了，怕孝子",
+        "content": "<p>好家伙，我都把瓜田帖子删了，怕孝子</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=527559&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.2.7",
+        "user": {
+          "id": 3311934,
+          "nickname": "360Ceeee",
+          "bio": "工业设计",
+          "avatar_path": "https://img.zfrontier.com/avatar/200805/ava5f2a011c1ff6f",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 6,
+          "level_name": "K19",
+          "hash_id": "m7W2Q69ENWwv1n",
+          "view_url": "/app/user/m7W2Q69ENWwv1n",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [
+            {
+              "id": 527597,
+              "uid": 3184214,
+              "r_reply_uid": 3311934,
+              "post_id": 34190,
+              "reply_id": 527559,
+              "floor": 0,
+              "great": 0,
+              "cnt_zan_rcv": 0,
+              "created_at": "2021-02-07 11:20:23",
+              "text": "你在怕什么",
+              "content": "<p>你在怕什么</p>",
+              "has_zan": 0,
+              "manage_menu": [
+                {
+                  "name": "分享评论",
+                  "api": "",
+                  "event": "shareReply",
+                  "confirm": ""
+                },
+                {
+                  "name": "举报此内容",
+                  "action": "report",
+                  "event": "report",
+                  "api": "/api/abuse-report?id=527597&type=13",
+                  "confirm": "确认举报？"
+                }
+              ],
+              "past_time": "2021.2.7",
+              "user": {
+                "id": 3184214,
+                "nickname": "卖不掉东西的小K",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "https://img.zfrontier.com/ava/20201010/zf5f81b8b9e3674",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 2,
+                "level_name": "黄色潜水艇",
+                "hash_id": "lJ60nb2vPYkY72",
+                "view_url": "/app/user/lJ60nb2vPYkY72",
+                "xmas_hat": 0
+              },
+              "reply_to_user": {
+                "id": 3311934,
+                "nickname": "360Ceeee",
+                "bio": "工业设计",
+                "avatar_path": "https://img.zfrontier.com/avatar/200805/ava5f2a011c1ff6f",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 6,
+                "level_name": "K19",
+                "hash_id": "m7W2Q69ENWwv1n",
+                "view_url": "/app/user/m7W2Q69ENWwv1n",
+                "xmas_hat": 0
+              }
+            }
+          ],
+          "total": 1,
+          "has_more": false
+        }
+      },
+      {
+        "id": 527760,
+        "uid": 3056770,
+        "r_reply_uid": 3327231,
+        "post_id": 34190,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2021-02-07 14:38:02",
+        "text": "啪的一下就点进来了 很快啊",
+        "content": "<p>啪的一下就点进来了 很快啊</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=527760&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.2.7",
+        "user": {
+          "id": 3056770,
+          "nickname": "嘿，少年",
+          "bio": "义无反顾的少年匆匆收拾起勇气",
+          "avatar_path": "https://img.zfrontier.com/avatar/191109/ava5dc6b9bd250f2",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 6,
+          "level_name": "K19",
+          "hash_id": "q0yrdnGm50ze5b",
+          "view_url": "/app/user/q0yrdnGm50ze5b",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 7325004,
+        "uid": 3841633,
+        "r_reply_uid": 4035205,
+        "post_id": 223775,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2024-12-01 20:01:07",
+        "text": "怎么没人评论",
+        "content": "<p>怎么没人评论</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=7325004&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2024.12.1",
+        "user": {
+          "id": 3841633,
+          "nickname": "Mr.睡不着",
+          "bio": "萌新键盘发烧友，仰望各个大佬。",
+          "avatar_path": "https://img.zfrontier.com/ava/20230929/zf651662e4d3f69",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 7,
+          "level_name": "深海挑战者",
+          "hash_id": "59B2WwOlXB2YR",
+          "view_url": "/app/user/59B2WwOlXB2YR",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 7329863,
+        "uid": 3933778,
+        "r_reply_uid": 4035205,
+        "post_id": 223775,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2024-12-02 18:17:08",
+        "text": "没看懂",
+        "content": "<p>没看懂</p><p><br /></p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=7329863&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2024.12.2",
+        "user": {
+          "id": 3933778,
+          "nickname": "ppolan",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/230325/ava641e41fdbc42c",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 3,
+          "level_name": "鹦鹉螺",
+          "hash_id": "Z6lJaz8Vp52KGn",
+          "view_url": "/app/user/Z6lJaz8Vp52KGn",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 617154,
+        "uid": 3047632,
+        "r_reply_uid": 3027986,
+        "post_id": 26983,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2021-05-01 06:33:30",
+        "text": "心疼你。但是煞笔们是不会理解卖家的",
+        "content": "<p>心疼你。但是煞笔们是不会理解卖家的</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=617154&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.5.1",
+        "user": {
+          "id": 3047632,
+          "nickname": "SHARKLER.",
+          "bio": "年轻不嗨 老年痴呆 ❤️🎩",
+          "avatar_path": "https://img.zfrontier.com/ava/20241206/cp6752405e37177",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 8,
+          "level_name": "红色十月",
+          "hash_id": "yo62w5b1vd2mV",
+          "view_url": "/app/user/yo62w5b1vd2mV",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

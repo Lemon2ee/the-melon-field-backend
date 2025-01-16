@@ -1,0 +1,163 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 912058,
+        "uid": 3521740,
+        "r_reply_uid": 3659757,
+        "post_id": 66079,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 2,
+        "created_at": "2021-11-16 23:40:20",
+        "text": "抖音，少看，会降智",
+        "content": "<p>抖音，少看，会降智</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=912058&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.11.16",
+        "user": {
+          "id": 3521740,
+          "nickname": "多罗向前冲",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20210624/zf60d4860c7815b",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 6,
+          "level_name": "K19",
+          "hash_id": "79ZQvx9WWOqPA",
+          "view_url": "/app/user/79ZQvx9WWOqPA",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [
+            {
+              "id": 912725,
+              "uid": 3715392,
+              "r_reply_uid": 3521740,
+              "post_id": 66079,
+              "reply_id": 912058,
+              "floor": 0,
+              "great": 0,
+              "cnt_zan_rcv": 0,
+              "created_at": "2021-11-17 10:54:23",
+              "text": "雀食",
+              "content": "<p>雀食<img class=\"editor-image\" data-type=\"meme\" src=\"//img.zfrontier.com/emo/20210630/Fq3Z4X-SjZuJNEqYNuCRDaKdiqOA\" /></p>",
+              "has_zan": 0,
+              "manage_menu": [
+                {
+                  "name": "分享评论",
+                  "api": "",
+                  "event": "shareReply",
+                  "confirm": ""
+                },
+                {
+                  "name": "举报此内容",
+                  "action": "report",
+                  "event": "report",
+                  "api": "/api/abuse-report?id=912725&type=13",
+                  "confirm": "确认举报？"
+                }
+              ],
+              "past_time": "2021.11.17",
+              "user": {
+                "id": 3715392,
+                "nickname": "S686🧱",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "https://img.zfrontier.com/avatar/211105/ava6184f65aa8f02",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 0,
+                "level_name": "蛙人",
+                "hash_id": "a0j6DjK6RVLD0",
+                "view_url": "/app/user/a0j6DjK6RVLD0",
+                "xmas_hat": 0
+              },
+              "reply_to_user": {
+                "id": 3521740,
+                "nickname": "多罗向前冲",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "https://img.zfrontier.com/ava/20210624/zf60d4860c7815b",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 6,
+                "level_name": "K19",
+                "hash_id": "79ZQvx9WWOqPA",
+                "view_url": "/app/user/79ZQvx9WWOqPA",
+                "xmas_hat": 0
+              }
+            }
+          ],
+          "total": 1,
+          "has_more": false
+        }
+      },
+      {
+        "id": 912747,
+        "uid": 3323630,
+        "r_reply_uid": 3659757,
+        "post_id": 66079,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2021-11-17 11:05:20",
+        "text": "谁买谁怨种",
+        "content": "<p>谁买谁怨种</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=912747&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.11.17",
+        "user": {
+          "id": 3323630,
+          "nickname": "医学生",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20220410/zf6252b54864031",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 2,
+          "level_name": "黄色潜水艇",
+          "hash_id": "qa0p7Rd2abAn5",
+          "view_url": "/app/user/qa0p7Rd2abAn5",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 752166,
+        "uid": 3232927,
+        "r_reply_uid": 3529539,
+        "post_id": 55775,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2021-08-09 22:21:14",
+        "text": "来了来了",
+        "content": "<p>来了来了</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=752166&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.8.9",
+        "user": {
+          "id": 3232927,
+          "nickname": "鸦牙",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/avatar/200427/ava5ea6faecbde50",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 5,
+          "level_name": "U571",
+          "hash_id": "m7Lqa75mvoVNA7",
+          "view_url": "/app/user/m7Lqa75mvoVNA7",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 752215,
+        "uid": 3351382,
+        "r_reply_uid": 3529539,
+        "post_id": 55775,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 1,
+        "created_at": "2021-08-09 22:46:16",
+        "text": "不明真相的吃瓜群众",
+        "content": "<p>不明真相的吃瓜群众</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=752215&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2021.8.9",
+        "user": {
+          "id": 3351382,
+          "nickname": "xfzhao",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "//avatar.zfrontier.cn/g/edca697585661f25664493c85cb49861",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 4,
+          "level_name": "Triton 3300",
+          "hash_id": "wEkVAYrRj2Pey",
+          "view_url": "/app/user/wEkVAYrRj2Pey",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

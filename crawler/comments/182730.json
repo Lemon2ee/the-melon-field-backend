@@ -1,0 +1,115 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 5039034,
+        "uid": 3903722,
+        "r_reply_uid": 4028399,
+        "post_id": 182859,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 1,
+        "created_at": "2023-12-30 18:39:11",
+        "text": "总结:想玩m得润出去玩",
+        "content": "<p>总结:想玩m得润出去玩<img class=\"editor-image\" data-type=\"meme\" src=\"//img.zfrontier.com/emo/20230119/Fr9wltnO3V5UlPWMO7dtIW9DSzSb.gif\" /></p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=5039034&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2023.12.30",
+        "user": {
+          "id": 3903722,
+          "nickname": "Ducati",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20230405/zf642d077496842",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 3,
+          "level_name": "鹦鹉螺",
+          "hash_id": "XBJ5OplEX7JRK",
+          "view_url": "/app/user/XBJ5OplEX7JRK",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [
+            {
+              "id": 5039073,
+              "uid": 4028399,
+              "r_reply_uid": 3903722,
+              "post_id": 182859,
+              "reply_id": 5039034,
+              "floor": 0,
+              "great": 0,
+              "cnt_zan_rcv": 0,
+              "created_at": "2023-12-30 18:44:22",
+              "text": "老祖宗们好不容易直起来的背一下子全弯下去了",
+              "content": "<p>老祖宗们好不容易直起来的背一下子全弯下去了</p>",
+              "has_zan": 0,
+              "manage_menu": [
+                {
+                  "name": "分享评论",
+                  "api": "",
+                  "event": "shareReply",
+                  "confirm": ""
+                },
+                {
+                  "name": "举报此内容",
+                  "action": "report",
+                  "event": "report",
+                  "api": "/api/abuse-report?id=5039073&type=13",
+                  "confirm": "确认举报？"
+                }
+              ],
+              "past_time": "2023.12.30",
+              "user": {
+                "id": 4028399,
+                "nickname": "跪舔老外的m🐶",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "https://img.zfrontier.com/avatar/231229/ava658e143b49ef9",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 3,
+                "level_name": "鹦鹉螺",
+                "hash_id": "DpPyxzBZ51y66w",
+                "view_url": "/app/user/DpPyxzBZ51y66w",
+                "xmas_hat": 0
+              },
+              "reply_to_user": {
+                "id": 3903722,
+                "nickname": "Ducati",
+                "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+                "avatar_path": "https://img.zfrontier.com/ava/20230405/zf642d077496842",
+                "verify_class": "",
+                "verify_info": "",
+                "bbs_lv": 3,
+                "level_name": "鹦鹉螺",
+                "hash_id": "XBJ5OplEX7JRK",
+                "view_url": "/app/user/XBJ5OplEX7JRK",
+                "xmas_hat": 0
+              }
+            }
+          ],
+          "total": 1,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

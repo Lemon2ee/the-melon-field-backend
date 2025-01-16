@@ -1,0 +1,58 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 1828599,
+        "uid": 1826077,
+        "r_reply_uid": 3863663,
+        "post_id": 99685,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2022-09-13 15:40:11",
+        "text": "帮你一下，用电脑发帖可以发长图。别说你一个搞设计的没有电脑。",
+        "content": "<p>帮你一下，用电脑发帖可以发长图。别说你一个搞设计的没有电脑。</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=1828599&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2022.9.13",
+        "user": {
+          "id": 1826077,
+          "nickname": "OCASANE",
+          "bio": "章鱼娘 B站：OCASANE_STUFF 视觉设计师",
+          "avatar_path": "https://img.zfrontier.com/ava/20211106/cp6186511febd8c",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 9,
+          "level_name": "海狼",
+          "hash_id": "XZPOQKLP5j6XVa",
+          "view_url": "/app/user/XZPOQKLP5j6XVa",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}

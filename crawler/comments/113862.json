@@ -1,0 +1,106 @@
+{
+  "ok": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 2282762,
+        "uid": 3316680,
+        "r_reply_uid": 3899310,
+        "post_id": 114210,
+        "reply_id": 0,
+        "floor": 1,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2022-12-08 19:18:13",
+        "text": "细说",
+        "content": "<p>细说</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=2282762&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2022.12.8",
+        "user": {
+          "id": 3316680,
+          "nickname": "你是什么星座",
+          "bio": "这个玩家显然是想保持一些神秘感，没留下什么话",
+          "avatar_path": "https://img.zfrontier.com/ava/20230511/zf645cc9b6eaccf",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 3,
+          "level_name": "鹦鹉螺",
+          "hash_id": "Rr8JplBdQabdma",
+          "view_url": "/app/user/Rr8JplBdQabdma",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      },
+      {
+        "id": 2286325,
+        "uid": 14410,
+        "r_reply_uid": 3899310,
+        "post_id": 114210,
+        "reply_id": 0,
+        "floor": 2,
+        "great": 0,
+        "cnt_zan_rcv": 0,
+        "created_at": "2022-12-09 09:50:33",
+        "text": "细说啊",
+        "content": "<p>细说啊</p>",
+        "has_zan": 0,
+        "manage_menu": [
+          {
+            "name": "分享评论",
+            "api": "",
+            "event": "shareReply",
+            "confirm": ""
+          },
+          {
+            "name": "举报此内容",
+            "action": "report",
+            "event": "report",
+            "api": "/api/abuse-report?id=2286325&type=13",
+            "confirm": "确认举报？"
+          }
+        ],
+        "past_time": "2022.12.9",
+        "user": {
+          "id": 14410,
+          "nickname": "派总海底一片天",
+          "bio": "孤独天才派大星",
+          "avatar_path": "http://img.zfrontier.com/avatar/170315/ava58c8fd64deca1",
+          "verify_class": "",
+          "verify_info": "",
+          "bbs_lv": 7,
+          "level_name": "深海挑战者",
+          "hash_id": "MqVVqpmprXwy",
+          "view_url": "/app/user/MqVVqpmprXwy",
+          "xmas_hat": 0
+        },
+        "sub_replies": {
+          "list": [],
+          "total": 0,
+          "has_more": false
+        }
+      }
+    ],
+    "authorZan": [],
+    "foldCnt": null
+  }
+}
