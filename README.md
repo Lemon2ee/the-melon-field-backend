@@ -1,6 +1,9 @@
 # The melon field backend
 The backend service for the melon field, it will mostly handle the search queue, fetching latest "melon-field" posts from zfrontier, and identity users from Xianyu with their profile shared (mostlikely they are related to the post, and thus might have been mishaving).
 
+> [!CAUTION]
+> 无期限搁置，因为sb zf把我用来爬数据的号给禁掉了，ip也封了，他妈的
+
 ## Components
 
 ### Crawler
